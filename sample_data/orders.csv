@@ -1,0 +1,13 @@
+date,category,amount,status
+2026-08-01,software,120,paid
+2026-08-02,software,135,paid
+2026-08-03,hardware,90,paid
+2026-08-04,hardware,110,
+2026-08-05,software,128,paid
+2026-08-06,software,142,paid
+2026-08-07,hardware,9999,paid
+2026-08-08,hardware,105,paid
+2026-08-09,software,118,paid
+2026-08-10,software,130,paid
+2026-08-11,software,125,paid
+2026-08-11,software,125,paid

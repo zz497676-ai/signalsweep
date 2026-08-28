@@ -1,0 +1,8 @@
+.artifacts/
+.venv/
+__pycache__/
+*.pyc
+tests/
+sample_data/
+.git/
+.gitignore
