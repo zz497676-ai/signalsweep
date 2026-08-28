@@ -190,6 +190,9 @@ maximum of one instance.
 
 ## MVP architecture
 
+The submission-ready architecture diagram is also available as
+[`ARCHITECTURE.md`](ARCHITECTURE.md) and [`architecture_diagram.png`](architecture_diagram.png).
+
 ```text
 Upload / event trigger
     |
