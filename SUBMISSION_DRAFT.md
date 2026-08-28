@@ -6,6 +6,7 @@
 - **Project name:** SignalSweep
 - **Team:** Solo builder
 - **Primary language:** Python
+- **Repository:** https://github.com/zz497676-ai/signalsweep
 
 ## One-line description
 
